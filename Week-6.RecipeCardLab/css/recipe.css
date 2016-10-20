@@ -1,0 +1,11 @@
+
+
+.short-info {
+  background: #e6e6e6;
+  width: 33%;
+  border-width: 10px;
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 25px;
+  padding: 20px;
+  margin-left: 10px
+}
