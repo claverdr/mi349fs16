@@ -1,11 +1,33 @@
 
 
-.short-info {
-  background: #e6e6e6;
+.funnel-cake {
+  background: linear-gradient(#e6e6e6,#00ffff);
   width: 33%;
   border-width: 10px;
   box-shadow: 10px 10px 5px #888888;
   border-radius: 25px;
   padding: 20px;
   margin-left: 10px
+
+}
+.chicken-alfredo {
+  background: linear-gradient(#e6e6e6, green);
+  width:33%;
+  border-width: 10px;
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 25px;
+  padding:20px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.brownies {
+  background: linear-gradient(#e6e6e6, #9932cc);
+  width:33%;
+  border-width: 10px;
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 25px;
+  padding:20px;
+  margin-left: 10px;
+  margin-top: 10px;
 }
